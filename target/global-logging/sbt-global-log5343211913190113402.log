@@ -1,0 +1,12 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(compile, Some(2a93d937-1e13-48f2-b131-b9906b49d81f), Some(CommandSource(console0)))[0m
+[0m[[0m[0mdebug[0m] [0m[0mEvaluating tasks: Compile / compile[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning task... Cancel: Signal, check cycles: false, forcegc: true[0m
+[0m[[0m[0minfo[0m] [0m[0mcompiling 6 Scala sources to /Users/matthewfaler/Documents/Fall 2021/CSCI 4210/Project 1/BlackJack/target/scala-3.0.2/classes ...[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m-- Deprecation Warning: /Users/matthewfaler/Documents/Fall 2021/CSCI 4210/Project 1/BlackJack/src/main/scala/Card.scala:13:17 [0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m13 |[0m      [33mthis[0m.value +  [31m"of"[0m + [33mthis[0m.suit[0m
+[0m[[0m[33mwarn[0m] [0m[0m   |      [33m^^^^^^^^^^^^[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m   |[33mmethod[0m [35m+[0m in [33mclass[0m [35mInt[0m is deprecated since 2.13.0: Adding a number and a String is deprecated. Use the string interpolation `s"$num$str"`[0m
+[0m[[0m[33mwarn[0m] [0m[0mone warning found[0m
+[0m[[0m[33mwarn[0m] [0m[0mone warning found[0m
+[0m[[0m[32msuccess[0m] [0m[0mTotal time: 4 s, completed May 18, 2023, 5:09:10 PM[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(shell, None, None)[0m
